@@ -54,5 +54,4 @@ local Window = OrionLib:MakeWindow({Name = "Cherry Hub", HidePremium = false,Int
         print(Value)
     end    
 })
-  
-  OrionLib:Init()
+UI thoi nhin lam gi=))
